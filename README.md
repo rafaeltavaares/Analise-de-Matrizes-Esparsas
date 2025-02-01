@@ -1,7 +1,7 @@
 # Relatório de Projeto: Implementação e Análise de Matrizes Esparsas
 
 ## INTRODUÇÃO
-Este relatório apresenta o projeto desenvolvido como parte da disciplina de Estrutura de Dados, tendo como objetivo a implementação e análise de matrizes esparsas e comparar a eficiência e o desempenho. O projeto envolve duas abordagens: a implementação de matrizes esparsas estáticas, armazenadas em vetores, e a implementação de matrizes esparsas dinâmicas, utilizando estruturas encadeadas por meio de Elos.
+Este relatório apresenta o projeto desenvolvido como parte da disciplina de Estrutura de Dados, tendo como objetivo a implementação e análise de matrizes esparsas para comparar a eficiência e o desempenho. O projeto envolve duas abordagens: a implementação de matrizes esparsas estáticas, armazenadas em vetores, e a implementação de matrizes esparsas dinâmicas, utilizando estruturas encadeadas por meio de Elos.
 
 1. **Matrizes Esparsas Estáticas**: Armazenadas em vetores.
 2. **Matrizes Esparsas Dinâmicas**: Implementadas com estruturas encadeadas (Elos).
